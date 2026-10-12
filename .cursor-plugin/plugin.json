@@ -7,7 +7,7 @@
     "name": "Moying Studio",
     "email": "moying.studio@outlook.com"
   },
-  "homepage": "https://mymoying.com/app-bridge",
+  "homepage": "https://botbridge.dev/app-bridge",
   "repository": "https://github.com/1019666077-bit/app-bridge-plugin",
   "license": "MIT",
   "keywords": ["windows", "desktop", "uia", "screenshot", "mcp", "app-bridge"],

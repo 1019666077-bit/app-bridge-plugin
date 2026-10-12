@@ -21,7 +21,7 @@ https://github.com/1019666077-bit/Windows-MCP
 
 Vendored checkout for local runs: `_windows_mcp_src/` (git submodule-style folder; keep MIT attribution).
 
-Homepage (coming soon): https://mymoying.com/app-bridge
+Homepage (coming soon): https://botbridge.dev/app-bridge
 
 ## Install
 
