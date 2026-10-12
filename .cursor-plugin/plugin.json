@@ -2,7 +2,7 @@
   "name": "app-bridge",
   "displayName": "App Bridge",
   "version": "0.1.0",
-  "description": "Free: list Windows windows, read UI text, screenshot. Click/type are Pro placeholders. Thin Cursor plugin over forked Windows-MCP.",
+  "description": "For Cursor and Grok Bot. Free: list Windows windows, read UI text, screenshot. Click/type are Pro placeholders. Thin plugin over forked Windows-MCP.",
   "author": {
     "name": "Moying Studio",
     "email": "moying.studio@outlook.com"
