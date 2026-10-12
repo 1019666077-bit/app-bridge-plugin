@@ -23,7 +23,13 @@ Homepage (coming soon): https://mymoying.com/app-bridge
 
 ## Install
 
-1. Clone into `~/.cursor/plugins/local/app-bridge` (or Marketplace after listing) and **Reload Window**.
+1. Clone into `~/.cursor/plugins/local/app-bridge` with submodules:
+
+   ```powershell
+   git clone --recurse-submodules https://github.com/1019666077-bit/app-bridge-plugin.git "$env:USERPROFILE\.cursor\plugins\local\app-bridge"
+   ```
+
+   Or Marketplace after listing, then **Reload Window**.
 2. Install [uv](https://docs.astral.sh/uv/getting-started/installation/) (this machine uses `C:\Users\<user>\.local\bin\uv.exe`).
 3. First start runs `uv sync` / pulls CPython **3.14+** for Windows-MCP (see `_windows_mcp_src/.python-version`).
 4. Ask to list windows / read UI text / screenshot, or run `/list-windows`.
