@@ -1,0 +1,8 @@
+---
+description: App Bridge Free — list windows, read UI text, screenshot; click/type are Pro placeholders
+alwaysApply: true
+---
+
+App Bridge Free uses the `app` MCP server (forked Windows-MCP) over stdio. Free tools only: `Screenshot`, `Snapshot`, `DisplayInventory`. Use `Snapshot` to list open windows and read UI / accessibility text. Use `Screenshot` (optionally with `region`) for a fast capture — it skips UI tree extraction. Images from tools must be visible in this chat before describing them.
+
+Do **not** call or invent Click / Type / Scroll / Move / Shortcut / App launch / PowerShell / Registry — those are Pro placeholders in Free. Do not promise reliable control of WeChat or any specific third-party app; window titles may appear as examples only. Homepage (coming soon): https://mymoying.com/app-bridge

@@ -1,0 +1,13 @@
+# Local MCP checkout build artifacts
+_windows_mcp_src/.venv/
+_windows_mcp_src/**/__pycache__/
+_windows_mcp_src/**/*.pyc
+_windows_mcp_src/.pytest_cache/
+_windows_mcp_src/.ruff_cache/
+_windows_mcp_src/.git/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.log
+.smoke-out/

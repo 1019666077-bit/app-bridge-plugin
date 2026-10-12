@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "app": {
+      "command": "C:\\Users\\MOON\\.local\\bin\\uv.exe",
+      "args": [
+        "--directory",
+        "${CURSOR_PLUGIN_ROOT}/_windows_mcp_src",
+        "run",
+        "windows-mcp",
+        "serve",
+        "--tools",
+        "Screenshot,Snapshot,DisplayInventory,ControlStatus"
+      ],
+      "env": {
+        "WINDOWS_MCP_DISABLE_FLASH": "1"
+      }
+    }
+  }
+}

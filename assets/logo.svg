@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="App Bridge">
+  <title>App Bridge</title>
+  <rect width="128" height="128" rx="28" fill="#1D4ED8"/>
+  <rect x="22" y="28" width="54" height="42" rx="6" fill="#FFFFFF"/>
+  <rect x="28" y="34" width="42" height="6" rx="2" fill="#93C5FD"/>
+  <rect x="28" y="46" width="28" height="6" rx="2" fill="#BFDBFE"/>
+  <rect x="52" y="58" width="54" height="42" rx="6" fill="#DBEAFE"/>
+  <rect x="58" y="64" width="42" height="6" rx="2" fill="#1D4ED8"/>
+  <rect x="58" y="76" width="28" height="6" rx="2" fill="#3B82F6"/>
+  <path d="M48 70 L64 58 L80 70" fill="none" stroke="#FBBF24" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
